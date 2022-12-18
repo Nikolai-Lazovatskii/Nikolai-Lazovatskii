@@ -3,7 +3,7 @@
 - 👨🏻‍💻 I’m using MacBook Air M1 2020
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning JavaScript, HTML&CSS, Git and Math
-- 🖥️ My CodeWars is here - https://www.codewars.com/users/NicolasRay-py - <img src="https://www.codewars.com/users/NicolasRay-py/badges/micro"/>
+- 🖥️ My CodeWars is here <img src="https://www.codewars.com/users/NicolasRay-py/badges/micro"/> ➡️ https://www.codewars.com/users/NicolasRay-py 
 - 📫 How to reach me nicolas.lazov25@mail.ru or nicolas.lazov25@gmail.com
 
 <!---
