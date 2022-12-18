@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Nicolas-Ray
+- 🌐 I’m speak Russia native, English B1, Slovak A2
+- 👨🏻‍💻 I’m using MacBook Air M1 2020
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning JavaScript, HTML&CSS, Git and Math
 - 📫 How to reach me nicolas.lazov25@mail.ru or nicolas.lazov25@gmail.com
