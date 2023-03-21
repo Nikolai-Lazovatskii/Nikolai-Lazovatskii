@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicolas-Ray
 - 🇸🇰 I’m living in Slovakia, Bratislava
-- 🌐 I’m speak Russia native, English B1, Slovak A2
+- 🌐 I’m speak Russia native, English B1, Slovak B1
 - 👨🏻‍💻 I’m using MacBook Air M1 2020
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning JavaScript, TypeScript, HTML&CSS, Git and Math
