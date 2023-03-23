@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicolas-Ray
+- 👋 Hi, I’m Nikolai Lazovatskii
 - 🇸🇰 I’m living in Slovakia, Bratislava
 - 🌐 I’m speak Russia native, English B1, Slovak B1
 - 👨🏻‍💻 I’m using MacBook Air M1 2020
