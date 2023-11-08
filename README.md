@@ -5,7 +5,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning JavaScript, ReactJS, TypeScript, Python and Math
 - 🖥️ My CodeWars <img src="https://www.codewars.com/users/NicolasRay/badges/small"/> ➡️ https://www.codewars.com/users/NicolasRay
-- 🧩 My LeetCode ➡️ <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp"/> https://leetcode.com/Nicolas-Ray/
+- 🧩 My LeetCode ➡️ https://leetcode.com/Nicolas-Ray/
 - 📫 How to reach me nicolas.lazov25@mail.ru or nicolas.lazov25@gmail.com
 
 <!---
