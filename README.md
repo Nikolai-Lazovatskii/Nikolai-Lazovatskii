@@ -2,7 +2,7 @@
 - 🇸🇰 I’m living in Slovakia, Bratislava
 - 🌐 I’m speak Russia native, English B1, Slovak B1
 - 👨🏻‍💻 I’m using MacBook Air M1 2020
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development and Algoritms
 - 🌱 I’m currently learning JavaScript, ReactJS, TypeScript, Python and Math
 - 🖥️ My CodeWars <img src="https://www.codewars.com/users/NicolasRay/badges/small"/> ➡️ https://www.codewars.com/users/NicolasRay
 - 🧩 My LeetCode ➡️ https://leetcode.com/Nicolas-Ray/
