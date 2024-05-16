@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nikolai Lazovatskii 
 - 🇸🇰 I’m living in Slovakia, Bratislava
+- 🎓 I'm studing at Comenius University - FMFI - Applied Informatics
 - 🌐 I’m speak Russia native, English B1, Slovak B1
 - 👨🏻‍💻 I’m using MacBook Air M1 2020
 - 👀 I’m interested in Web development and Algoritms
